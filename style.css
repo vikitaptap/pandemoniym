@@ -1,0 +1,32 @@
+body{
+  background-color:darkblue;
+  color:white;
+}
+#П1{
+  background-color:darkviolet;
+  box-shadow:0px 0px 50px darkviolet;
+  text-align:center;
+}
+#П3{
+   background-color:darkviolet;
+  box-shadow:0px 0px 50px darkviolet;
+  text-align:center;
+  
+}
+#П2{
+   background-color:pink;
+  color:black;
+  box-shadow:0px 0px 50px pink;
+  
+  
+}
+img{
+  width:200px;
+  
+}
+h2{
+   background-color:black;
+  box-shadow:0px 0px 50px black;
+  text-align:center;
+  
+}
